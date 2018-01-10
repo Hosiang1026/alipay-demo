@@ -654,3 +654,11 @@ Just added and starting handler tuple: StaticListener_For_Aggregator
 2018-01-10 11:50:25,580 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
 2018-01-10 11:50:25,580 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
 2018-01-10 11:50:25,580 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:51:25,581 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:51:25,581 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:51:25,581 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:51:25,581 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:52:25,582 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:52:25,582 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:52:25,582 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:52:25,582 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
