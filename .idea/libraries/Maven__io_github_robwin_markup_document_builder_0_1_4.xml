@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.robwin:markup-document-builder:0.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/markup-document-builder/0.1.4/markup-document-builder-0.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/markup-document-builder/0.1.4/markup-document-builder-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/markup-document-builder/0.1.4/markup-document-builder-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

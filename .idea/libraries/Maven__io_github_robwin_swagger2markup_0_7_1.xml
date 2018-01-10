@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.robwin:swagger2markup:0.7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/swagger2markup/0.7.1/swagger2markup-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/swagger2markup/0.7.1/swagger2markup-0.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Package/.m2/repository/io/github/robwin/swagger2markup/0.7.1/swagger2markup-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

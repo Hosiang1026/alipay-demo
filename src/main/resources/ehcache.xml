@@ -1,0 +1,22 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="ehcache.xsd">
+	<diskStore path="java.io.tmpdir" />
+	<defaultCache maxElementsInMemory="10000"
+		timeToLiveSeconds="20" 
+		overflowToDisk="false" 
+		maxElementsOnDisk="10000000"
+		diskPersistent="false" 
+		diskExpiryThreadIntervalSeconds="20"
+		memoryStoreEvictionPolicy="LRU" />
+	<cache name="tapCache" 
+		maxElementsInMemory="10000" 
+		eternal="false"
+		timeToIdleSeconds="3600" 
+		timeToLiveSeconds="3600" 
+		overflowToDisk="false"
+		maxElementsOnDisk="0" 
+		diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="0" 
+		memoryStoreEvictionPolicy="LRU">
+	</cache>
+</ehcache>

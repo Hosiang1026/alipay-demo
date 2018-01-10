@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.window{ 
+  width:800px; 
+  background-color:#34496f; 
+  position:absolute; 
+  padding:2px; 
+  margin:5px; 
+  display:none; 
+} 
+
+.msg_content{ 
+  height:300px; 
+  background-color:#e1e8ea; 
+  font-size:14px; 
+  overflow:auto; 
+} 
+     
+.title{ 
+  padding:2px; 
+  color:#eff3f5; 
+  font-size:14px; 
+} 
+
+.title img{ 
+  float:right; 
+} 

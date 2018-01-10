@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+eureka:
+  instance:
+    hostname: alipay-demo
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://eureka.didispace.com/eureka/
+
+
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@10.10.6.26:1521:bostest
+    username: bos0301
+    password: bos0301
+
+cache:
+    ehcache:
+      config: classpath:ehcache.xml
+
