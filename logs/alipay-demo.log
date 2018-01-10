@@ -667,3 +667,150 @@ Just added and starting handler tuple: StaticListener_For_Aggregator
 2018-01-10 11:53:25,582 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
 2018-01-10 11:53:25,582 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
 2018-01-10 11:53:26,128 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:54:25,582 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:54:25,582 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:54:25,582 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:54:25,582 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:55:25,582 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:55:25,583 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:55:25,583 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:55:25,583 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:56:25,582 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:56:25,582 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:56:25,582 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:56:25,582 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:57:25,583 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:57:25,583 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:57:25,583 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:57:25,583 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:58:25,584 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:58:25,584 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:58:25,584 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:58:25,584 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:58:26,128 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:59:25,584 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:59:25,584 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:59:25,584 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:59:25,584 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:00:25,585 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:00:25,585 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:00:25,585 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:00:25,585 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:01:25,586 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:01:25,586 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:01:25,586 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:01:25,586 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:02:25,586 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:02:25,586 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:02:25,586 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:02:25,586 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:03:25,587 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:03:25,587 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:03:25,587 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:03:25,587 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:03:26,130 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:04:25,587 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:04:25,587 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:04:25,587 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:04:25,588 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:05:25,588 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:05:25,588 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:05:25,588 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:05:25,588 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:06:25,589 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:06:25,589 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:06:25,589 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:06:25,589 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:07:25,589 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:07:25,589 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:07:25,589 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:07:25,589 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:08:25,589 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:08:25,589 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:08:25,589 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:08:25,589 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:08:26,132 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:09:25,590 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:09:25,590 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:09:25,590 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:09:25,590 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:10:25,590 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:10:25,590 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:10:25,590 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:10:25,590 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:11:25,590 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:11:25,590 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:11:25,590 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:11:25,590 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:12:25,590 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:12:25,590 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:12:25,590 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:12:25,590 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:13:25,591 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:13:25,591 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:13:25,591 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:13:25,591 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:13:26,134 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:14:25,592 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:14:25,592 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:14:25,592 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:14:25,592 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:15:25,593 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:15:25,593 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:15:25,593 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:15:25,593 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:16:25,593 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:16:25,593 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:16:25,593 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:16:25,593 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:17:25,594 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:17:25,594 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:17:25,594 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:17:25,594 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:18:25,594 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:18:25,594 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:18:25,594 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:18:25,594 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:18:26,134 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:19:25,594 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:19:25,594 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:19:25,594 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:19:25,594 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:20:25,594 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:20:25,594 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:20:25,594 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:20:25,594 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:21:25,595 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:21:25,595 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:21:25,595 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:21:25,595 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:22:25,596 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:22:25,596 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:22:25,596 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:22:25,596 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:23:25,597 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:23:25,597 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:23:25,597 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:23:25,597 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:23:26,135 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:24:25,597 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:24:25,597 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:24:25,597 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:24:25,597 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:25:25,598 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:25:25,598 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:25:25,598 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:25:25,598 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:26:25,599 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:26:25,599 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:26:25,599 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:26:25,599 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:27:25,599 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:27:25,599 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:27:25,599 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:27:25,599 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:28:25,599 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:28:25,599 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:28:25,599 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:28:25,599 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:28:26,136 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
