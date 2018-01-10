@@ -814,3 +814,11 @@ Just added and starting handler tuple: StaticListener_For_Aggregator
 2018-01-10 12:28:25,599 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
 2018-01-10 12:28:25,599 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
 2018-01-10 12:28:26,136 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 12:29:25,600 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:29:25,600 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:29:25,600 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:29:25,600 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 12:30:25,601 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 12:30:25,601 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 12:30:25,601 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 12:30:25,601 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
