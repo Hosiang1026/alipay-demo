@@ -143,7 +143,7 @@ $(function(){
    </div>
    		<div id="foot">
 			<ul class="foot-ul">
-				<li>郝祥@版权所有 2017-2018 WWW.HOSIANG.CN</li>
+				<li>狂欢马克思@版权所有 2017-2018 WWW.HOSIANG.CN</li>
 			</ul>
 		</div>
  </div>  

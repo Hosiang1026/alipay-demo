@@ -382,3 +382,262 @@ Just added and starting handler tuple: StaticListener_For_Aggregator
 2018-01-10 10:36:49,102 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
 2018-01-10 10:36:49,102 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
 2018-01-10 10:36:49,102 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:13:17,655 [main] INFO AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1bb266b3: startup date [Wed Jan 10 11:13:17 CST 2018]; root of context hierarchy
+2018-01-10 11:13:17,817 [main] INFO AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-01-10 11:13:17,831 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [class org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$938bcebf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:17,897 [main] INFO Version - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-10 11:13:19,302 [main] INFO InetUtils - Cannot determine local hostname
+2018-01-10 11:13:19,344 [main] INFO Application - No active profile set, falling back to default profiles: default
+2018-01-10 11:13:19,365 [main] INFO AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b068087: startup date [Wed Jan 10 11:13:19 CST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@1bb266b3
+2018-01-10 11:13:20,092 [main] WARN ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'refreshScope' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2018-01-10 11:13:20,175 [main] INFO GenericScope - BeanFactory id=eda40fd8-ae0a-3cf4-850e-8da17abced6e
+2018-01-10 11:13:20,182 [main] INFO AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-01-10 11:13:20,221 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatisConfig' of type [class com.zjs.conf.MybatisConfig$$EnhancerBySpringCGLIB$$2e6169aa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,252 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource.CONFIGURATION_PROPERTIES' of type [class org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,253 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$NonEmbeddedConfiguration' of type [class org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$NonEmbeddedConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,328 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [class org.apache.tomcat.jdbc.pool.DataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,362 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [class org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,375 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'commonMapper' of type [class org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,438 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7771cbc2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,618 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.cache.annotation.ProxyCachingConfiguration' of type [class org.springframework.cache.annotation.ProxyCachingConfiguration$$EnhancerBySpringCGLIB$$c08401e0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,637 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration' of type [class org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration$$EnhancerBySpringCGLIB$$b4f7c684] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,652 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.cache.CONFIGURATION_PROPERTIES' of type [class org.springframework.boot.autoconfigure.cache.CacheProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,664 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers' of type [class org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,667 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.cache.EhCacheCacheConfiguration' of type [class org.springframework.boot.autoconfigure.cache.EhCacheCacheConfiguration$$EnhancerBySpringCGLIB$$4f969382] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,947 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'ehCacheCacheManager' of type [class net.sf.ehcache.CacheManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:20,999 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'cacheManager' of type [class org.springframework.cache.ehcache.EhCacheCacheManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:21,003 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'cacheAutoConfigurationValidator' of type [class org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration$CacheManagerValidator] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:21,030 [main] INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [class org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$938bcebf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-01-10 11:13:21,273 [main] INFO TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2018-01-10 11:13:21,283 [main] INFO StandardService - Starting service Tomcat
+2018-01-10 11:13:21,285 [main] INFO StandardEngine - Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-01-10 11:13:21,805 [localhost-startStop-1] INFO TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-01-10 11:13:21,810 [localhost-startStop-1] INFO [/] - Initializing Spring embedded WebApplicationContext
+2018-01-10 11:13:21,811 [localhost-startStop-1] INFO ContextLoader - Root WebApplicationContext: initialization completed in 2446 ms
+2018-01-10 11:13:22,310 [localhost-startStop-1] INFO ServletRegistrationBean - Mapping servlet: 'proxyStreamServlet' to [/proxy.stream]
+2018-01-10 11:13:22,311 [localhost-startStop-1] INFO ServletRegistrationBean - Mapping servlet: 'turbineStreamServlet' to [/turbine.stream]
+2018-01-10 11:13:22,311 [localhost-startStop-1] INFO ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2018-01-10 11:13:22,314 [localhost-startStop-1] INFO FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-01-10 11:13:22,315 [localhost-startStop-1] INFO FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-01-10 11:13:22,315 [localhost-startStop-1] INFO FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-01-10 11:13:22,315 [localhost-startStop-1] INFO FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2018-01-10 11:13:22,930 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/index],methods=[GET],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.index(org.springframework.ui.Model,javax.servlet.http.HttpServletRequest,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-01-10 11:13:22,932 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/pay],methods=[GET],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.AlipayPay(org.springframework.ui.Model,com.zjs.dto.AlipayDto) throws java.lang.Exception
+2018-01-10 11:13:22,932 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/notify],methods=[POST],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.AlipayNotify(org.springframework.ui.Model,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+2018-01-10 11:13:22,932 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/return],methods=[GET],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.AlipayReturn(org.springframework.ui.Model,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest,org.springframework.web.servlet.mvc.support.RedirectAttributes) throws java.lang.Exception
+2018-01-10 11:13:22,932 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/refund],methods=[GET],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.AlipayRefund(org.springframework.ui.Model,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+2018-01-10 11:13:22,932 [main] INFO RequestMappingHandlerMapping - Mapped "{[/alipay-demo/query],methods=[POST],produces=[application/json]}" onto public java.lang.String com.zjs.controller.AlipayController.AlipayQuery(org.springframework.ui.Model,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+2018-01-10 11:13:22,933 [main] INFO RequestMappingHandlerMapping - Mapped "{[/v2/api-docs],methods=[GET]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String)
+2018-01-10 11:13:22,936 [main] INFO RequestMappingHandlerMapping - Mapped "{[/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2018-01-10 11:13:22,936 [main] INFO RequestMappingHandlerMapping - Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2018-01-10 11:13:22,936 [main] INFO RequestMappingHandlerMapping - Mapped "{[/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2018-01-10 11:13:22,937 [main] INFO RequestMappingHandlerMapping - Mapped "{[/hystrix/{path}]}" onto public java.lang.String org.springframework.cloud.netflix.hystrix.dashboard.HystrixDashboardController.monitor(java.lang.String,org.springframework.ui.Model,org.springframework.web.context.request.WebRequest)
+2018-01-10 11:13:22,937 [main] INFO RequestMappingHandlerMapping - Mapped "{[/hystrix]}" onto public java.lang.String org.springframework.cloud.netflix.hystrix.dashboard.HystrixDashboardController.home(org.springframework.ui.Model,org.springframework.web.context.request.WebRequest)
+2018-01-10 11:13:22,938 [main] INFO RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-01-10 11:13:22,939 [main] INFO RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-01-10 11:13:23,105 [main] INFO SpringTemplateLoader - SpringTemplateLoader for FreeMarker: using resource loader [org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b068087: startup date [Wed Jan 10 11:13:19 CST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@1bb266b3] and template loader path [classpath:/templates/]
+2018-01-10 11:13:23,109 [main] INFO FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2018-01-10 11:13:24,465 [main] INFO InetUtils - Cannot determine local hostname
+2018-01-10 11:13:24,601 [main] INFO RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5b068087: startup date [Wed Jan 10 11:13:19 CST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@1bb266b3
+2018-01-10 11:13:24,676 [main] INFO SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-01-10 11:13:24,676 [main] INFO SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-01-10 11:13:24,718 [main] INFO SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-01-10 11:13:25,265 [main] WARN URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-01-10 11:13:25,265 [main] INFO URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-01-10 11:13:25,270 [main] WARN URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-01-10 11:13:25,270 [main] INFO URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-01-10 11:13:25,340 [main] INFO AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2018-01-10 11:13:25,346 [main] INFO AnnotationMBeanExporter - Bean with name 'refreshScope' has been autodetected for JMX exposure
+2018-01-10 11:13:25,347 [main] INFO AnnotationMBeanExporter - Bean with name 'environmentManager' has been autodetected for JMX exposure
+2018-01-10 11:13:25,348 [main] INFO AnnotationMBeanExporter - Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2018-01-10 11:13:25,350 [main] INFO AnnotationMBeanExporter - Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2018-01-10 11:13:25,358 [main] INFO AnnotationMBeanExporter - Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2018-01-10 11:13:25,363 [main] INFO AnnotationMBeanExporter - Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=5b068087,type=ConfigurationPropertiesRebinder]
+2018-01-10 11:13:25,436 [main] INFO DefaultLifecycleProcessor - Starting beans in phase 0
+2018-01-10 11:13:25,442 [main] INFO SpringAggregatorFactory - Could not find monitors: []
+2018-01-10 11:13:25,558 [main] INFO ClusterMonitor - Registering event handler for cluster monitor: StaticListener_For_Aggregator
+2018-01-10 11:13:25,560 [main] INFO TurbineDataDispatcher - 
+
+Just added and starting handler tuple: StaticListener_For_Aggregator
+2018-01-10 11:13:25,560 [main] INFO ClusterMonitor - All event handlers for cluster monitor: [StaticListener_For_Aggregator]
+2018-01-10 11:13:25,560 [main] INFO ClusterMonitor - Starting up the cluster monitor for default_agg
+2018-01-10 11:13:25,562 [main] INFO InstanceObservable - Starting InstanceObservable at frequency: 60000 millis
+2018-01-10 11:13:25,562 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:13:25,562 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:13:25,562 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:13:25,562 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:13:25,568 [main] INFO InstanceInfoFactory - Setting initial instance status as: STARTING
+2018-01-10 11:13:25,748 [main] INFO DiscoveryJerseyProvider - Using JSON encoding codec LegacyJacksonJson
+2018-01-10 11:13:25,748 [main] INFO DiscoveryJerseyProvider - Using JSON decoding codec LegacyJacksonJson
+2018-01-10 11:13:25,838 [main] INFO DiscoveryJerseyProvider - Using XML encoding codec XStreamXml
+2018-01-10 11:13:25,838 [main] INFO DiscoveryJerseyProvider - Using XML decoding codec XStreamXml
+2018-01-10 11:13:25,987 [main] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Disable delta property : false
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Single vip registry refresh property : null
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Force full registry fetch : false
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Application is null : false
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Registered Applications size is zero : true
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Application version is -1: true
+2018-01-10 11:13:26,115 [main] INFO DiscoveryClient - Getting all instance registry info from the eureka server
+2018-01-10 11:13:26,375 [main] INFO DiscoveryClient - The response status is 200
+2018-01-10 11:13:26,376 [main] INFO DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2018-01-10 11:13:26,377 [main] INFO InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-01-10 11:13:26,379 [main] INFO DiscoveryClient - Discovery Client initialized at timestamp 1515554006379 with initial instances count: 8
+2018-01-10 11:13:26,416 [main] INFO EurekaDiscoveryClientConfiguration - Registering application alipay-demo with eureka with status UP
+2018-01-10 11:13:26,417 [main] INFO DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1515554006417, current=UP, previous=STARTING]
+2018-01-10 11:13:26,419 [DiscoveryClient-InstanceInfoReplicator-0] INFO DiscoveryClient - DiscoveryClient_ALIPAY-DEMO/localhost:alipay-demo:8080: registering service...
+2018-01-10 11:13:26,428 [main] INFO DocumentationPluginsBootstrapper - Context refreshed
+2018-01-10 11:13:26,443 [main] INFO DocumentationPluginsBootstrapper - Found {0} custom documentation plugin(s)
+2018-01-10 11:13:26,451 [main] INFO ApiListingReferenceScanner - Scanning for api listing references
+2018-01-10 11:13:26,481 [DiscoveryClient-InstanceInfoReplicator-0] INFO DiscoveryClient - DiscoveryClient_ALIPAY-DEMO/localhost:alipay-demo:8080 - registration status: 204
+2018-01-10 11:13:26,489 [main] INFO Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2018-01-10 11:13:26,494 [main] INFO Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2018-01-10 11:13:26,503 [main] INFO NioSelectorPool - Using a shared selector for servlet write/read
+2018-01-10 11:13:26,535 [main] INFO TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2018-01-10 11:13:26,536 [main] INFO EurekaDiscoveryClientConfiguration - Updating port to 8080
+2018-01-10 11:13:26,541 [main] INFO Application - Started Application in 10.373 seconds (JVM running for 10.953)
+2018-01-10 11:14:25,563 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:14:25,563 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:14:25,563 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:14:25,563 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:15:25,564 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:15:25,564 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:15:25,564 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:15:25,564 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:16:25,564 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:16:25,564 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:16:25,564 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:16:25,564 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:17:25,564 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:17:25,564 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:17:25,564 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:17:25,564 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:18:25,565 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:18:25,566 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:18:25,566 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:18:25,566 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:18:26,119 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:19:25,565 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:19:25,565 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:19:25,565 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:19:25,565 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:20:25,566 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:20:25,566 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:20:25,566 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:20:25,566 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:21:25,566 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:21:25,566 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:21:25,566 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:21:25,566 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:22:25,566 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:22:25,566 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:22:25,566 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:22:25,566 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:23:25,567 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:23:25,567 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:23:25,567 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:23:25,567 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:23:26,120 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:24:25,567 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:24:25,567 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:24:25,567 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:24:25,567 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:25:02,146 [http-nio-8080-exec-1] INFO [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-01-10 11:25:02,147 [http-nio-8080-exec-1] INFO DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2018-01-10 11:25:02,172 [http-nio-8080-exec-1] INFO DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 25 ms
+2018-01-10 11:25:25,568 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:25:25,568 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:25:25,568 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:25:25,568 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:26:25,569 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:26:25,569 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:26:25,569 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:26:25,569 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:27:25,569 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:27:25,569 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:27:25,569 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:27:25,570 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:28:25,570 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:28:25,570 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:28:25,570 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:28:25,570 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:28:26,121 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:29:25,570 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:29:25,570 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:29:25,570 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:29:25,570 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:30:25,570 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:30:25,570 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:30:25,570 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:30:25,570 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:31:25,571 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:31:25,571 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:31:25,571 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:31:25,571 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:32:25,572 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:32:25,572 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:32:25,572 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:32:25,572 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:33:25,572 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:33:25,572 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:33:25,572 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:33:25,572 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:33:26,123 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:34:25,573 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:34:25,573 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:34:25,573 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:34:25,573 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:35:25,574 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:35:25,574 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:35:25,574 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:35:25,574 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:36:25,574 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:36:25,574 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:36:25,574 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:36:25,574 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:37:25,575 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:37:25,575 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:37:25,575 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:37:25,575 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:38:25,576 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:38:25,576 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:38:25,576 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:38:25,576 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:38:26,123 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:39:25,576 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:39:25,576 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:39:25,576 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:39:25,576 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:40:25,576 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:40:25,576 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:40:25,576 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:40:25,576 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:41:25,576 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:41:25,576 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:41:25,576 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:41:25,576 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:42:25,577 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:42:25,577 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:42:25,577 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:42:25,577 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:43:25,577 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:43:25,577 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:43:25,577 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:43:25,577 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:43:26,124 [AsyncResolver-bootstrap-executor-0] INFO ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-01-10 11:44:25,577 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:44:25,577 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:44:25,577 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:44:25,577 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:45:25,578 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:45:25,578 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:45:25,578 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:45:25,578 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:46:25,579 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:46:25,579 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:46:25,579 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:46:25,579 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
+2018-01-10 11:47:25,579 [Timer-0] INFO CommonsInstanceDiscovery - No apps configured, returning an empty instance list
+2018-01-10 11:47:25,579 [Timer-0] INFO InstanceObservable - Retrieved hosts from InstanceDiscovery: 0
+2018-01-10 11:47:25,579 [Timer-0] INFO InstanceObservable - Found hosts that have been previously terminated: 0
+2018-01-10 11:47:25,579 [Timer-0] INFO InstanceObservable - Hosts up:0, hosts down: 0
