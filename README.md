@@ -2,7 +2,7 @@
 
 ## 作者：吉祥草
 
-## 网站：http://www.hosiang.cn （狂欢马克思）
+## 网站：http://www.hosiang.ml （狂欢马克思）
 
 ## 说明：
 
@@ -10,7 +10,7 @@
 
 ### 蚁金服官方提供的开发接口文档
 
-## 本地访问：http://127.0.0.1:8080/alipay-demo/index
+## 本地访问：http://localhost:8080/alipay-demo/index
 
 ## 效果演示：
 
