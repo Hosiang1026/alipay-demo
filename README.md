@@ -14,4 +14,4 @@
 
 ## 效果演示：
 
-![alipay](https://raw.githubusercontent.com/Hosiang1026/alipay-demo/master/src/main/resources/META-INF/resources/static/images/demo.gif  "Java调用支付宝电脑网站支付接口")
+![alipay](src/main/resources/META-INF/resources/static/images/demo.gif  "Java调用支付宝电脑网站支付接口")
